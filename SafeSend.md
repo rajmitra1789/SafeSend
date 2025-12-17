@@ -9,6 +9,9 @@ To use SafeSend, users must have the following:
 Users must have a compatible wallet. SafeSend supports more than 500 wallets, including MetaMask and WalletConnect-enabled wallets.
 
 SafeSend currently supports the following chains:
+
+![Transaction Flow](chains.png)
+
 - Ethereum
 - Arbitrum One
 - BNB Smart Chain
@@ -138,6 +141,8 @@ No new wallet creation or special setup is required.
 ---
 
 ### Step 2: Send a Test Transfer
+
+![Transaction Flow](txn.png)
 
 Before sending the full amount, a small test transaction is executed.
 
