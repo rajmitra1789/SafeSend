@@ -139,8 +139,6 @@ No new wallet creation or special setup is required.
 
 ### Step 2: Send a Test Transfer
 
-![Test Transfer Flow](image2)
-
 Before sending the full amount, a small test transaction is executed.
 
 SafeSend verifies:
